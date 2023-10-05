@@ -1,13 +1,19 @@
 
-    {Info/Biografia/Wikidata}
-    '''Adriana Gomes De Azevedo''' (06/04/1978, Natal – Rio Grande do Norte  ) é uma atleta paralímpica brasileira.
+{{Info/Biografia/Wikidata}}
+'''Amanda Aparecida Santos De Sousa''' (09/09/1991, São Paulo – São Paulo  ) é uma [[atleta paralímpica]] [[brasileira]].
 
-    == Ligações externas ==
+== Ligações externas ==
 
-    {Portal3|Desporto}
-    {{Esboço-atleta}}
-    {{DEFAULTSORT:Adriana Gomes De Azevedo}}
-    [[Categoria:Atletas paralímpicos do Brasil]]
-    [[Categoria:Naturais de Natal]]
-    [[Categoria:Canoístas do Brasil]]
+{{Esboço-atleta}}
+{{DEFAULTSORT:Amanda Aparecida Santos De Sousa}}
+[[Categoria:Atletas paralímpicos do Brasil]]
+[[Categoria:Naturais de São Paulo]]
+[[Categoria:Nascidos em 1991]]
+[[Categoria:Pessoas com deficiência física do Brasil]]
+[[Categoria:!Wikiconcurso Mulheres Brasileiras no Esporte (artigos)]
+
+{Referências}
+{controle de autoridade}
+{Portal3|Desporto|Eventos Multiesportivos|Mulheres|Brasil}
+
     
