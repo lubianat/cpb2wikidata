@@ -1,12 +1,13 @@
 
 CREATE
-LAST|Len|"Amanda Aparecida Santos De Sousa"
-LAST|Lpt|"Amanda Aparecida Santos De Sousa"
+LAST|Len|"Ana Aurélia Mendes Rosa"
+LAST|Lpt|"Ana Aurélia Mendes Rosa"
 LAST|Den|"Brazilian paralympic athlete"
 LAST|Dpt|"Atleta paralímpica brasileira"
 LAST|P31|Q5
-LAST|P21|Q6581072|S854|"https://cpb.org.br/atletas/amanda-aparecida-santos-de-sousa/"
-LAST|P1532|Q155|S854|"https://cpb.org.br/atletas/amanda-aparecida-santos-de-sousa/"
-LAST|P27|Q155|S854|"https://cpb.org.br/atletas/amanda-aparecida-santos-de-sousa/"
-LAST|P569|+1991-09-09T00:00:00Z/11|S854|"https://cpb.org.br/atletas/amanda-aparecida-santos-de-sousa/"
+LAST|P21|Q6581072|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
+LAST|P1532|Q155|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
+LAST|P27|Q155|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
+LAST|P569|+1988-09-10T00:00:00Z/11|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
     
+LAST|P2003|"anaaurelia10"

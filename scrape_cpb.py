@@ -41,9 +41,17 @@ def generate_files(athlete_name):
     # Extracting relevant information
     name = soup.find('h1', class_='Athlete__name').text
     dob_raw = soup.find('time').text.strip()
+    # Find the anchor tag with class 'Athlete__social-media--instagram'
+    instagram_link = soup.find('a', class_='Athlete__social-media--instagram')['href']
+
+    # Extract handle from the link
+    instagram_handle = instagram_link.split('/')[-1]
+
+    print(instagram_handle)
     dob_formatted = datetime.strptime(dob_raw, "%d/%m/%Y").strftime("+%Y-%m-%dT00:00:00Z/11")
     yob =     datetime.strptime(dob_raw, "%d/%m/%Y").strftime("%Y")
     place_of_birth = soup.find_all('td')[7].text
+    city_of_birth = place_of_birth.split("–")[0].strip()
     
     # Quickstatements for Wikidata
     wikidata_quickstatements = f"""
@@ -58,21 +66,22 @@ LAST|P1532|Q155|S854|"{url}"
 LAST|P27|Q155|S854|"{url}"
 LAST|P569|{dob_formatted}|S854|"{url}"
     """
-    
+    if instagram_handle:
+        wikidata_quickstatements += f'\nLAST|P2003|"{instagram_handle}"'
     # Wikipedia stub
     wikipedia_stub = f"""
 {{{{Info/Biografia/Wikidata}}}}
-'''{name}''' ({dob_raw}, {place_of_birth}  ) é uma [[atleta paralímpica]] [[brasileira]].
+'''{name}''' ({dob_raw}, [[{city_of_birth}]]  ) é uma [[atleta paralímpica]] [[brasileira]].
 
 == Ligações externas ==
 
 {{{{Esboço-atleta}}}}
 {{{{DEFAULTSORT:{name}}}}}
 [[Categoria:Atletas paralímpicos do Brasil]]
-[[Categoria:Naturais de {place_of_birth.split(' – ')[0]}]]
+[[Categoria:Naturais de {city_of_birth}]]
 [[Categoria:Nascidos em {yob}]]
 [[Categoria:Pessoas com deficiência física do Brasil]]
-[[Categoria:!Wikiconcurso Mulheres Brasileiras no Esporte (artigos)]
+[[Categoria:!Wikiconcurso Mulheres Brasileiras no Esporte (artigos)]]
 
 {{{{Referências}}}}
 {{{{controle de autoridade}}}}
