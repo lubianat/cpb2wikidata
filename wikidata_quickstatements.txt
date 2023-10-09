@@ -1,13 +1,13 @@
 
 CREATE
-LAST|Len|"Ana Aurélia Mendes Rosa"
-LAST|Lpt|"Ana Aurélia Mendes Rosa"
+LAST|Len|"Carminha Celestina De Oliveira"
+LAST|Lpt|"Carminha Celestina De Oliveira"
 LAST|Den|"Brazilian paralympic athlete"
 LAST|Dpt|"Atleta paralímpica brasileira"
 LAST|P31|Q5
-LAST|P21|Q6581072|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
-LAST|P1532|Q155|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
-LAST|P27|Q155|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
-LAST|P569|+1988-09-10T00:00:00Z/11|S854|"https://cpb.org.br/atletas/ana-aurelia-mendes-rosa/"
+LAST|P21|Q6581072|S854|"https://cpb.org.br/atletas/carminha-celestina-de-oliveira/"
+LAST|P1532|Q155|S854|"https://cpb.org.br/atletas/carminha-celestina-de-oliveira/"
+LAST|P27|Q155|S854|"https://cpb.org.br/atletas/carminha-celestina-de-oliveira/"
+LAST|P569|+1990-08-15T00:00:00Z/11|S854|"https://cpb.org.br/atletas/carminha-celestina-de-oliveira/"
     
-LAST|P2003|"anaaurelia10"
+LAST|P2003|"carmemoliveira_2017"

@@ -1,19 +1,60 @@
 
-{{Info/Biografia/Wikidata}}
-'''Ana Aurélia Mendes Rosa''' (10/09/1988, [[Santa Helena de Goiás]]  ) é uma [[atleta paralímpica]] [[brasileira]].
+{{Info/esporte/atleta
+| olimpico            = 
+| nome                = Carminha Celestina De Oliveira
+| nomecompleto        = Carminha Celestina De Oliveira
+| apelido             = 
+| esporte             = [[Esgrima em Cadeira de Rodas]]
+| modalidade          = 
+| estilo              = 
+| categoria           = 
+| especialidade       =
+| representante       = 
+| subtítulo           = 
+| imagem              = 
+| tamanho             = 200px
+| legenda             = 
+| peso                =
+| altura              =
+| posição             = 
+| nível               =
+| parceiro            = 
+| primeiro parceiro   = 
+| treinador           = 
+| primeiro treinador  =
+| coreógrafo          = 
+| primeiro coreógrafo = 
+| clube               = 
+| atividade           = 
+| data_nascimento     = {{dni|15|08|1990}}
+| local_nascimento    = [[Foz do Iguaçu]]
+| nacionalidade       = {{BRAn|a}}
+| data_morte          = 
+| local_morte         = 
+| torneio1            = 
+| conquista1          = 
+| recorde_mundial     = 
+| recorde_pessoal     =
+| esconder            = 
+| medalhas            = 
+}}
+
+'''Carminha Celestina De Oliveira''' (15/08/1990, [[Foz do Iguaçu]]  ) é uma [[atleta paralímpica]] [[brasileira]] na modalidade de [[esgrima em cadeira de rodas]].<ref>{{Citar web|url=https://cpb.org.br/atletas/carminha-celestina-de-oliveira/|titulo=Carminha Celestina De Oliveira|acessodata=2023-10-09|website=CPB|lingua=pt-BR}}</ref>
 
 == Ligações externas ==
+* [https://cpb.org.br/atletas/carminha-celestina-de-oliveira/ Página da atleta na Confederação Paralímpica Brasileira]
 
-{{Esboço-atleta}}
-{{DEFAULTSORT:Ana Aurélia Mendes Rosa}}
-[[Categoria:Atletas paralímpicos do Brasil]]
-[[Categoria:Naturais de Santa Helena de Goiás]]
-[[Categoria:Nascidos em 1988]]
-[[Categoria:Pessoas com deficiência física do Brasil]]
-[[Categoria:!Wikiconcurso Mulheres Brasileiras no Esporte (artigos)]]
+{{DEFAULTSORT:Carminha Celestina De Oliveira}}
 
 {{Referências}}
 {{controle de autoridade}}
 {{Portal3|Desporto|Eventos Multiesportivos|Mulheres|Brasil}}
+{{Esboço-atleta}}
+
+[[Categoria:Atletas paralímpicos do Brasil]]
+[[Categoria:Naturais de Foz do Iguaçu]]
+[[Categoria:Nascidos em 1990]]
+[[Categoria:Pessoas com deficiência física do Brasil]]
+[[Categoria:!Wikiconcurso Mulheres Brasileiras no Esporte (artigos)]]
 
     
